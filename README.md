@@ -1,1 +1,1 @@
-# Terraform_AWS_Wordpress_MySQL_Deployment_Using_NAT_Gateway
+# Terraform_AWS_Wordpress_MySQL_Deployment_Using_NAT-Gateway
